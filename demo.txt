@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 my first demo file
 addinf second line
+=======
+my demo file in main branch
+>>>>>>> demo
